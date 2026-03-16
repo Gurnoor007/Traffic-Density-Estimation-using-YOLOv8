@@ -1,0 +1,22 @@
+# Traffic Density Estimation — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# YOLOv8 — model training and inference
+ultralytics>=8.0.0
+
+# Computer Vision
+opencv-python>=4.8.0
+
+# Image processing
+Pillow>=9.0.0
+
+# Data handling
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# YAML config parsing (usually bundled with Python, listed for explicitness)
+PyYAML>=6.0
